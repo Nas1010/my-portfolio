@@ -1,0 +1,20 @@
+.profile {
+    display: flex;
+   
+  }
+  
+  .profilePicContainer {
+    width: 100px;
+    height: 100px;
+   
+  }
+  
+  /* .sectionText {
+   
+  } */
+  
+  .btn {
+    background-color: blue;
+  
+  }
+  
