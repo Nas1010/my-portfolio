@@ -1,20 +1,18 @@
 import React from "react";
 import Header from "./components/Header";
-import Profile from "./components/Profile"
+import Contact from "./components/Contact";
+// import styles from "./styles/Header.module.css";
+// import Profile from "./components/Profile"
 import Footer from "./components/Footer";
-import "./styles.css";
+
 
 const App = () => {
   return (
     <div>
       <Header />
-      <Profile />
-      {/* <Landing />
-      <About />
-      <Experience />
-      <Projects />
-      <Contact /> */}
+      <Contact />
       <Footer />
+     
     </div>
   );
 };

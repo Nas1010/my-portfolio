@@ -1,0 +1,21 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: #fff0f6;
+    font-family: 'Poppins', sans-serif;
+    border-bottom: 2px solid #ffd6e7;
+  }
+  
+  nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #ff69b4;
+    font-weight: bold;
+  }
+   
